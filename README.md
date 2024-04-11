@@ -1,2 +1,2 @@
 # paris24-bousselmi_Hayat-GP02
-Hayat Adeel // Nathan Guilloteau // Luc Lagoin // Nitika Goyal
+Adeel Hayat // Nathan Guilloteau // Luc Lagoin // Nitika Goyal
