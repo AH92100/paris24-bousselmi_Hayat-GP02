@@ -47,11 +47,11 @@ file=open("desktop/WC/romeo.txt",'r')
 text=file.read()
 
 # Create the WordCloud
-canvas_ _____=1920
-canvas_ ____=1080 
+canvas_width=1920
+canvas_height=1080 
 
 # Generate wordcloud
-wordcloud = ________ (width=canvas_width,height=canvas_height).generate(text)
+wordcloud = WorldCloud (width=canvas_width,height=canvas_height).generate(text)
 wordcloud.to_file("simple_wordcloud.png") 
 plt.figure(figsize = (10, 10), facecolor=None)
 
